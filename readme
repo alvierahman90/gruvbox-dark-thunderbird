@@ -1,5 +1,5 @@
-gruvbox-dark-soft
------------------
+gruvbox-dark-thunderbird
+------------------------
 
 to make:
 zip gruvbox.xpi manifest.json
