@@ -1,0 +1,5 @@
+gruvbox-dark-soft
+-----------------
+
+to make:
+zip gruvbox.xpi manifest.json

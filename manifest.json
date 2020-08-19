@@ -1,0 +1,57 @@
+{
+	"manifest_version":2,
+	"applications":{
+		"gecko":{
+		"id":"gruvbox-dark-soft@alra.uk",
+		"strict_min_version":"60.0"
+	}
+	},
+	"name":"Gruvbox Dark Soft",
+	"description":"Gruvbox Dark Soft Theme.",
+	"version":"0.1",
+	"theme":{
+		"images":{
+			"theme_frame":"thunderbirdimage.jpg"
+		},
+		"colors":{
+			"bookmark_text": "#ebdbb2",
+			"frame": "#32302f",
+			"frame_inactive": "#32302f",
+
+			"popup": "#32302f",
+			"popup_text": "#ebdbb2",
+			"popup_border": "#32302f",
+			"popup_highlight": "#3c3836",
+			"popup_highlight_text": "#ebdbb2",
+			"popup_border": "#32302f",
+
+			"sidebar": "#32302f",
+			"sidebar_text": "#ebdbb2",
+			"sidebar_highlight": "#3c3836",
+			"sidebar_highlight_text": "#ebdbb2",
+			"sidebar_border": "#32302f",
+
+			"toolbar": "#32302f",
+			"toolbar_field": "#32302f",
+			"toolbar_field_text": "#ebdbb2",
+			"toolbar_field_highlight": "#3c3836",
+			"toolbar_field_highlight_text": "#ebdbb2",
+			"toolbar_field_border": "#32302f",
+			"toolbar_field_focus": "#32302f",
+			"toolbar_field_text_focus": "#ebdbb2",
+			"toolbar_field_border_focus": "#d79921",
+			"toolbar_top_separator": "#32302f",
+			"toolbar_bottom_separator": "#32302f",
+			"toolbar_vertical_separator": "#32302f",
+			
+			"tab_background_separator": "#3c3836",
+			"tab_background_text": "#d5c4a1",
+			"tab_text": "#ebdbb2",
+			"tab_line": "#fe8019",
+			"tab_loading": "#fe8019",
+
+			"ntp_background": "#32302f",
+			"ntp_text": "#ebdbb2"
+		}
+	}
+}
